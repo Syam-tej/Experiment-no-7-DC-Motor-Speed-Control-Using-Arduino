@@ -28,6 +28,7 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 ### PRGORAM 
 
 ### OUTPUT
+![two motor](https://user-images.githubusercontent.com/93427224/169530772-a17c98b5-4414-4c47-be5d-c4f460c2d370.png)
 
 ### RESULTS AND DISCUSSION 
-
+Thus, the speed and the direction of a DC motor using L293D driver ic( H- bridge) is controlled.
